@@ -1,0 +1,109 @@
+@charset "utf-8";
+body header  {
+    font-style: normal;
+    font-weight: 900;
+    text-align: center;
+    font-size: 25px;
+}
+body nav {
+    display: flex;
+    row-gap: 20px;
+    text-align: center;
+    background-color: #E6E8B0;
+    height: 95px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    position: fixed;
+    -webkit-box-shadow: 0px 1px 20px #6B6B6B;
+    box-shadow: 0px 1px 20px #6B6B6B;
+    width: 100%;
+}
+body main {
+    text-align: center;
+
+
+}
+h3 {
+    font-size: 45px;
+    position: relative;
+    bottom: -60px;
+    text-align: center;
+    background-color: #CFC8B3;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 111px;
+}
+.container header .heroimg {
+    background-image: url(images/%E9%AD%94%E8%A1%93%E6%96%B9%E5%A1%8A-1.jpg);
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    height: 717px;
+    width: 1158px;
+}
+footer  {
+    color: #888585;
+    text-align: center;
+}
+
+
+
+article {
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+main article img {
+    margin-right: auto;
+    margin-left: auto;
+}
+nav a img {
+    width: 80px;
+    height: 80px;
+    margin-right: 14px;
+
+}
+
+
+
+h2 {
+    width: 147px;
+    text-align: right;
+    border-radius: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 17px;
+    margin-right: 15px;
+    margin-left: auto;
+}
+h1   {
+    margin-left: 20px;
+    font-size: 34px;
+}
+
+
+
+
+.container nav{
+    position:relative;
+    margin-bottom:-100px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    font-size: 50px;
+    background-color: #F7F6D9;
+    
+
+
+}
+nav a img:hover  {
+    border: thick double #C5AD65;
+
+
+
+
+
+
+}
